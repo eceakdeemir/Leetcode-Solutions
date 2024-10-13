@@ -12,9 +12,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
 |  |
 | ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Hash Table
+|  |
+| ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
