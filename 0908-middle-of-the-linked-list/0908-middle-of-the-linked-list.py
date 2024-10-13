@@ -9,9 +9,10 @@ class Solution:
         lenght = self.len_list(head)
         if lenght == 1:
             return head
+        tmp = head
         for i in range(lenght // 2):
-            head = head.next
-        return head
+            tmp = tmp.next
+        return tmp
 
     def len_list(self, head: ListNode) -> int:
         i = 0
