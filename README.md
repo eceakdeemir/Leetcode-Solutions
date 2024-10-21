@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Array
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
