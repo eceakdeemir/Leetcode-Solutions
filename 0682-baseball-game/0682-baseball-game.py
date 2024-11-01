@@ -10,7 +10,4 @@ class Solution:
                 record_list.append(record_list[-1] + record_list[-2])
             else:
                 record_list.append(int(i))
-        toplam = 0
-        for i in record_list:
-            toplam += i
-        return toplam
+        return sum(record_list)
