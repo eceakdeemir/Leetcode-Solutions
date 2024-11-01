@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Queue
 |  |
@@ -37,5 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
