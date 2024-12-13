@@ -8,4 +8,4 @@ class Solution:
                 start = middle + 1
             elif arr[middle] > arr[middle + 1]:
                 finish = middle
-        return finish
+        return start
