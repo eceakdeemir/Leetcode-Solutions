@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Queue
