@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 ## Queue
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
