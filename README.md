@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2698-find-the-array-concatenation-value](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Queue
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2698-find-the-array-concatenation-value](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2698-find-the-array-concatenation-value](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## String Matching
 |  |
 | ------- |
