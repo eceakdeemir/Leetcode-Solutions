@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0953-reverse-only-letters](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
