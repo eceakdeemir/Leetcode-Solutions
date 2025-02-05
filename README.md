@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2698-find-the-array-concatenation-value](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [1552-build-an-array-with-stack-operations](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2698-find-the-array-concatenation-value](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Stack
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1552-build-an-array-with-stack-operations](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
