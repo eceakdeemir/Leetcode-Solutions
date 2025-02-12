@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2698-find-the-array-concatenation-value](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Queue
 |  |
