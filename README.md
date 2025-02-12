@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1755-defuse-the-bomb](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
+| [1755-defuse-the-bomb](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2698-find-the-array-concatenation-value](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Queue
