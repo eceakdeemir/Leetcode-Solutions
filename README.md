@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
