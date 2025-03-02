@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2195-time-needed-to-buy-tickets](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2698-find-the-array-concatenation-value](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2698-find-the-array-concatenation-value) |
@@ -105,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Two Pointers
 |  |
 | ------- |
