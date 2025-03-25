@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2384-root-equals-sum-of-children](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -156,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2384-root-equals-sum-of-children](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
