@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0500-keyboard-row](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0953-reverse-only-letters](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -156,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Backtracking
+|  |
+| ------- |
+| [1030-smallest-string-starting-from-leaf](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
