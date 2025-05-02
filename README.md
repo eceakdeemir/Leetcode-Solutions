@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -176,5 +177,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/eceakdeemir/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
